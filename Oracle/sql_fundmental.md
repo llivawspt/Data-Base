@@ -15,6 +15,22 @@ SQL的特点：
 
 5. 语言简洁，易学易用
 
+SQL完成核心功能的9个动词。
+
+|SQL功能|动词|
+|------|------|
+|数据定义|CREATE, DROP, ALTER|
+|数据查询|SELECT|
+|数据操纵|INSERT, UPDATE, DELETE|
+|数据控制|GRANT, REVOKE|
+
+支持SQL的关系数据库管理系统同样支持关系数据库三级模式结构。
++ **外模式**对应与视图和部分基本表
++ **模式**对应于基本表
++ **内模式**对应于存储文件
+
+![image](https://github.com/llivawspt/Data-Base/assets/130529573/0dd2d18f-ec27-48ee-b7c1-5285b6fa32af)
+
 # 数据定义
 
 
